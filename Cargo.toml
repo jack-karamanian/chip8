@@ -1,0 +1,14 @@
+[package]
+name = "chip8"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+imgui-sdl2 = "0.15.2"
+imgui-opengl-renderer = "0.12.1"
+imgui = "0.11.0"
+sdl2 = "0.35.2"
+gl = "0.14.0"
